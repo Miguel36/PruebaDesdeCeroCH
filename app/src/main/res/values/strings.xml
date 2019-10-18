@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PruebaDesdeCero</string>
+    <string name="title_bienvenido">Bienvenido</string>
+    <string name="hint_edittext">Ingrese su Nombre</string>
+    <string name="button_text">Ingresar</string>
+    <string name="text_textview">Bienvenido:</string>
+</resources>
